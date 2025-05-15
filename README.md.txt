@@ -5,7 +5,7 @@ This project uses OpenAI's GPT API to extract structured research workflows from
 ##  What It Does
 
 - Reads a PDF file (research article)
-- Uses an LLM (like GPT-4 or GPT-3.5) to identify key workflow steps in the Methods section
+- Uses an LLM (using model 4o) to identify key workflow steps in the Methods section
 - Outputs those steps into a structured CSV file
 
 ##  Tech Stack
